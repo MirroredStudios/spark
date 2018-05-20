@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "Spark",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "{Spark} is a minimalistic editor which saves your time & your money!",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
